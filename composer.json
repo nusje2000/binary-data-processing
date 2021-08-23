@@ -1,0 +1,12 @@
+{
+    "name": "nusje2000/binary-data-processing",
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^5.3"
+    }
+}
